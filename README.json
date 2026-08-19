@@ -1,34 +1,9 @@
 {
-  "items": [
-    {
-      "description": "— https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-now-supports-custom-runtimes-and-layers/",
-      "items": [],
-      "title": "What are Lambda Layers?"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Runtimes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AWS Official lambda layer"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:33:20.201Z",
+    "last_updated": "2026-08-19T12:38:32.298Z",
     "original_repository": "mthenw/awesome-layers",
+    "original_repository_id": 159810374,
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
     "enhanced_repository": "enhansome/enhansome-layers",
     "enhanced_repository_description": null,
