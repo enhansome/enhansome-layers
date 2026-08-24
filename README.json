@@ -1,7 +1,1040 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++ (official)",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156278608,
+                "language": "C++",
+                "last_commit": "2026-08-18T16:26:49Z",
+                "owner": "awslabs",
+                "repo": "aws-lambda-cpp",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust (official)",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156752158,
+                "language": "Rust",
+                "last_commit": "2026-08-14T12:28:46Z",
+                "owner": "aws",
+                "repo": "aws-lambda-rust-runtime",
+                "stars": 3609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bash",
+              "description": "ARN: Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160428544,
+                "language": "Python",
+                "last_commit": "2020-08-19T03:24:26Z",
+                "owner": "gkrizek",
+                "repo": "bash-lambda-layer",
+                "stars": 423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ballerina",
+              "description": "Link: ballerina-platform/module-ballerinax-aws.lambda",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164394133,
+                "language": "Java",
+                "last_commit": "2026-08-10T04:25:05Z",
+                "owner": "ballerina-platform",
+                "repo": "module-ballerinax-aws.lambda",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crystal",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160421329,
+                "language": "Crystal",
+                "last_commit": "2023-03-13T17:01:19Z",
+                "owner": "lambci",
+                "repo": "crambda",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nim",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159736449,
+                "language": "Nim",
+                "last_commit": "2019-09-23T21:44:53Z",
+                "owner": "lambci",
+                "repo": "awslambda.nim",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js v10",
+              "description": "ARN: Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159713458,
+                "language": "Shell",
+                "last_commit": "2021-04-07T22:08:27Z",
+                "owner": "lambci",
+                "repo": "node-custom-lambda",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js v12",
+              "description": "ARN: Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159713458,
+                "language": "Shell",
+                "last_commit": "2021-04-07T22:08:27Z",
+                "owner": "lambci",
+                "repo": "node-custom-lambda",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perl 5.30.1",
+              "description": "ARN: Link: - see links to other version and Paws builds in repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161093578,
+                "language": "Perl",
+                "last_commit": "2026-08-14T14:07:16Z",
+                "owner": "shogo82148",
+                "repo": "p5-aws-lambda",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP 7.1 & 7.3",
+              "description": "ARN: Link: N/A",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156885130,
+                "language": "PHP",
+                "last_commit": "2020-01-10T06:37:20Z",
+                "owner": "stackery",
+                "repo": "php-lambda-layer",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP 7.2 & 7.3cli & fpm",
+              "description": "ARN: Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112659734,
+                "language": "PHP",
+                "last_commit": "2026-08-18T08:42:36Z",
+                "owner": "brefphp",
+                "repo": "bref",
+                "stars": 3391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pypy 3.5",
+              "description": "ARN: Link: IOpipe Pypy Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160114409,
+                "language": "Python",
+                "last_commit": "2018-12-11T03:11:11Z",
+                "owner": "iopipe",
+                "repo": "lambda-runtime-pypy3.5",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java 11",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166852653,
+                "language": "Java",
+                "last_commit": "2019-02-14T18:20:07Z",
+                "owner": "andthearchitect",
+                "repo": "aws-lambda-java-runtime",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244728768,
+                "language": "Swift",
+                "last_commit": "2026-07-29T06:14:47Z",
+                "owner": "awslabs",
+                "repo": "swift-aws-lambda-runtime",
+                "stars": 1235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206480485,
+                "language": "C",
+                "last_commit": "2023-06-20T07:01:12Z",
+                "owner": "PauloMigAlmeida",
+                "repo": "aws-lambda-c-runtime",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Runtimes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Apache Tika",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228373210,
+                "language": "Shell",
+                "last_commit": "2026-08-22T19:58:31Z",
+                "owner": "shelfio",
+                "repo": "apache-tika-lambda-layer",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS CLI",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 181720740,
+                "language": "TypeScript",
+                "last_commit": "2022-04-04T00:14:56Z",
+                "owner": "aws-samples",
+                "repo": "aws-lambda-layer-awscli",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Data Wrangler",
+              "description": "Link: ()",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172615836,
+                "language": "Python",
+                "last_commit": "2026-08-22T08:12:10Z",
+                "owner": "aws",
+                "repo": "aws-sdk-pandas",
+                "stars": 4117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "better-sqlite3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67626108,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T03:10:10Z",
+                "owner": "WiseLibs",
+                "repo": "better-sqlite3",
+                "stars": 7452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARN: Link:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159776433,
+                "language": "Shell",
+                "last_commit": "2022-11-15T08:45:26Z",
+                "owner": "seanfisher",
+                "repo": "better-sqlite3-lambda-layer",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calibre",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261521163,
+                "language": "Java",
+                "last_commit": "2020-10-14T14:16:51Z",
+                "owner": "gipsh",
+                "repo": "aws-calibre-layer",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chrome-aws-lambda",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201543815,
+                "language": null,
+                "last_commit": "2026-08-22T18:06:10Z",
+                "owner": "shelfio",
+                "repo": "chrome-aws-lambda-layer",
+                "stars": 750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClamAV",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179685871,
+                "language": "Shell",
+                "last_commit": "2022-02-02T23:03:10Z",
+                "owner": "kindlyops",
+                "repo": "lambda-clamav-layer",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FFmpeg/FFprobe",
+              "description": "ARN: Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163099794,
+                "language": "JavaScript",
+                "last_commit": "2024-06-05T12:57:10Z",
+                "owner": "serverlesspub",
+                "repo": "ffmpeg-aws-lambda-layer",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GDAL + PDAL",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165086992,
+                "language": "HCL",
+                "last_commit": "2025-07-22T16:53:52Z",
+                "owner": "PDAL",
+                "repo": "lambda",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoIP",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157878156,
+                "language": "Dockerfile",
+                "last_commit": "2020-08-14T08:03:10Z",
+                "owner": "dschep",
+                "repo": "geoip-lambda-layer",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ghostscript",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205123725,
+                "language": "Shell",
+                "last_commit": "2026-08-22T19:58:44Z",
+                "owner": "shelfio",
+                "repo": "ghostscript-lambda-layer",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git + SSH",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159716817,
+                "language": "Shell",
+                "last_commit": "2022-06-08T17:10:02Z",
+                "owner": "lambci",
+                "repo": "git-lambda-layer",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphicsMagick",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188796511,
+                "language": "Dockerfile",
+                "last_commit": "2024-01-11T15:34:03Z",
+                "owner": "rpidanny",
+                "repo": "gm-lambda-layer",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "headless chromium with CJK fonts",
+              "description": "Link: all N/A",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164403613,
+                "language": "Makefile",
+                "last_commit": "2019-06-02T05:30:56Z",
+                "owner": "pahud",
+                "repo": "lambda-layer-headless-chromium",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Headless PhantomJS",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231969842,
+                "language": "Makefile",
+                "last_commit": "2021-01-23T10:09:26Z",
+                "owner": "shivtej1505",
+                "repo": "phantom-js-lambda-layer",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hugo",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234994235,
+                "language": "Shell",
+                "last_commit": "2021-09-14T23:53:02Z",
+                "owner": "jason-dour",
+                "repo": "hugo-aws-lambda-layer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubectl for Amazon EKS",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 181720569,
+                "language": "TypeScript",
+                "last_commit": "2022-04-06T18:44:15Z",
+                "owner": "aws-samples",
+                "repo": "aws-lambda-layer-kubectl",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibreOffice",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 191536483,
+                "language": "Shell",
+                "last_commit": "2026-08-22T21:05:38Z",
+                "owner": "shelfio",
+                "repo": "libreoffice-lambda-layer",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libvips",
+              "description": "Link: Built for Ruby FFI but should work for all. all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 181573413,
+                "language": "Dockerfile",
+                "last_commit": "2022-07-03T19:44:39Z",
+                "owner": "customink",
+                "repo": "ruby-vips-lambda",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ModSecurity",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247390949,
+                "language": "Dockerfile",
+                "last_commit": "2020-10-11T15:18:25Z",
+                "owner": "Zeerg",
+                "repo": "modsecurity-layer",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 162598655,
+                "language": "Shell",
+                "last_commit": "2018-12-20T15:36:37Z",
+                "owner": "aiir",
+                "repo": "php71-mysql-aws-lambda-layer",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "php-lambda-layer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156885130,
+                "language": "PHP",
+                "last_commit": "2020-01-10T06:37:20Z",
+                "owner": "stackery",
+                "repo": "php-lambda-layer",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Net-SNMP Tools",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234185331,
+                "language": "Shell",
+                "last_commit": "2021-09-15T00:34:46Z",
+                "owner": "jason-dour",
+                "repo": "net-snmp-aws-lambda-layer",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI",
+              "description": "Link: OpenAI Python packages and the required dependencies Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573888075,
+                "language": "Python",
+                "last_commit": "2023-07-19T19:52:07Z",
+                "owner": "erenyasarkurt",
+                "repo": "OpenAI-AWS-Lambda-Layer",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSSL",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232817148,
+                "language": "Shell",
+                "last_commit": "2025-07-31T16:50:33Z",
+                "owner": "alexandredavi",
+                "repo": "openssl-lambda-layer",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OR-Tools",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194302472,
+                "language": "Shell",
+                "last_commit": "2020-06-08T01:21:41Z",
+                "owner": "matheusmessora",
+                "repo": "or-tools-layer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pandas-gbq",
+              "description": "ARN: Link: Includes pandas, a versatile data exploration tool that builds on numpy. Also includes pandas-gbq for reading and writing from/to Google BigQuery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277029142,
+                "language": "Python",
+                "last_commit": "2020-07-04T03:13:36Z",
+                "owner": "vbalasu",
+                "repo": "pandas-gbq-layer",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pandoc",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68240496,
+                "language": "JavaScript",
+                "last_commit": "2019-06-19T16:01:49Z",
+                "owner": "serverlesspub",
+                "repo": "pandoc-aws-lambda-binary",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paramiko",
+              "description": "Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207526249,
+                "language": "Shell",
+                "last_commit": "2021-10-25T18:42:27Z",
+                "owner": "jetbridge",
+                "repo": "paramiko-lambda-layer",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poppler",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215409390,
+                "language": "Dockerfile",
+                "last_commit": "2023-09-27T11:22:42Z",
+                "owner": "jeylabs",
+                "repo": "aws-lambda-poppler-layer",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PostgreSQL libpq",
+              "description": "https://github.com/DrLuke/postgres-libpq-aws-lambda-layer all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179499502,
+                "language": "Shell",
+                "last_commit": "2019-04-04T16:55:38Z",
+                "owner": "DrLuke",
+                "repo": "postgres-libpq-aws-lambda-layer",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puppeteer",
+              "description": "ARN: Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159799172,
+                "language": "JavaScript",
+                "last_commit": "2021-06-05T03:51:46Z",
+                "owner": "RafalWilinski",
+                "repo": "serverless-puppeteer-layers",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "psycopg2",
+              "description": "Link:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161649221,
+                "language": "Shell",
+                "last_commit": "2024-01-22T18:24:35Z",
+                "owner": "jetbridge",
+                "repo": "psycopg2-lambda-layer",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyodbc",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261271023,
+                "language": "Python",
+                "last_commit": "2023-11-18T00:12:03Z",
+                "owner": "kuharan",
+                "repo": "Lambda-Layers",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PySNMP",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234184967,
+                "language": "Shell",
+                "last_commit": "2021-09-15T01:31:16Z",
+                "owner": "jason-dour",
+                "repo": "pysnmp-aws-lambda-layer",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Toolkit",
+              "description": "Link: Python packages incl. requests, aiohttp, pyOpenSSL etc. ...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164266648,
+                "language": "Python",
+                "last_commit": "2026-08-21T22:40:46Z",
+                "owner": "keithrozario",
+                "repo": "Klayers",
+                "stars": 2506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rclone",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356655018,
+                "language": "Makefile",
+                "last_commit": "2026-08-12T01:04:25Z",
+                "owner": "badouralix",
+                "repo": "rclone-lambda-layer",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rsvg-convert",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72092867,
+                "language": "JavaScript",
+                "last_commit": "2024-01-26T20:44:37Z",
+                "owner": "serverlesspub",
+                "repo": "rsvg-convert-aws-lambda-binary",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scikit-learn",
+              "description": "ARN: Link:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 281499090,
+                "language": "Python",
+                "last_commit": "2023-05-28T13:35:03Z",
+                "owner": "model-zoo",
+                "repo": "scikit-learn-lambda",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Selenium & Chromium for Python",
+              "description": "Link: Includes lambda optimized Chromium ver. 86.0.4240.0 and Selenium ver. 3.14 Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259451856,
+                "language": "Python",
+                "last_commit": "2021-08-23T23:27:11Z",
+                "owner": "vittorio-nardone",
+                "repo": "selenium-chromium-lambda",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoX",
+              "description": "ARN: Link: all",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162879753,
+                "language": "Makefile",
+                "last_commit": "2019-01-08T12:59:05Z",
+                "owner": "serverlesspub",
+                "repo": "sox-aws-lambda-binary",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLite Python",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157911615,
+                "language": "Dockerfile",
+                "last_commit": "2018-11-30T23:23:50Z",
+                "owner": "dschep",
+                "repo": "sqlite-lambda-layer",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tesseract",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160103319,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T01:10:08Z",
+                "owner": "bweigel",
+                "repo": "aws-lambda-tesseract-layer",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tex Live (LaTeX)",
+              "description": "Link: Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188203792,
+                "language": "JavaScript",
+                "last_commit": "2021-09-01T11:58:46Z",
+                "owner": "serverlesspub",
+                "repo": "latex-aws-lambda-layer",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unzip",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268931093,
+                "language": "Dockerfile",
+                "last_commit": "2020-06-02T23:38:50Z",
+                "owner": "vpayette",
+                "repo": "unzip-aws-lambda-layer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zip",
+              "description": "Link: all Self publish",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227715728,
+                "language": "Dockerfile",
+                "last_commit": "2020-05-15T22:06:41Z",
+                "owner": "morugu",
+                "repo": "zip-aws-lambda-layer",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IOpipe Node",
+              "description": "ARN: Link: IOpipe Node Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109193953,
+                "language": "Shell",
+                "last_commit": "2022-12-09T01:31:35Z",
+                "owner": "iopipe",
+                "repo": "iopipe-js",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IOpipe Python",
+              "description": "ARN: Link: IOpipe Python Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64508423,
+                "language": "Python",
+                "last_commit": "2022-09-08T09:26:43Z",
+                "owner": "iopipe",
+                "repo": "iopipe-python",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IOpipe Java",
+              "description": "ARN: Link: IOpipe Java Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113876289,
+                "language": "Java",
+                "last_commit": "2025-11-13T16:36:48Z",
+                "owner": "iopipe",
+                "repo": "iopipe-java",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lumigo Node",
+              "description": "ARN: Link: Lumigo Node Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185531534,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T13:34:24Z",
+                "owner": "lumigo-io",
+                "repo": "lumigo-node",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lumigo Python",
+              "description": "ARN: Link: Lumigo Python Layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169977038,
+                "language": "Python",
+                "last_commit": "2026-08-20T15:22:06Z",
+                "owner": "lumigo-io",
+                "repo": "python_tracer",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        }
+      ],
+      "title": "Layers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:30:33.336Z",
+    "last_updated": "2026-08-24T14:03:06.234Z",
     "original_repository": "mthenw/awesome-layers",
     "original_repository_id": 159810374,
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
