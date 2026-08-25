@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 164394133,
                 "language": "Java",
-                "last_commit": "2026-08-10T04:25:05Z",
+                "last_commit": "2026-08-25T09:54:26Z",
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-aws.lambda",
                 "stars": 109
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-18T08:42:36Z",
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3392
+                "stars": 3393
               }
             },
             {
@@ -276,10 +276,10 @@
                 "archived": false,
                 "id": 172615836,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:12:10Z",
+                "last_commit": "2026-08-25T19:33:30Z",
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4117
+                "stars": 4118
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-10T03:10:10Z",
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7452
+                "stars": 7453
               }
             },
             {
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:28.263Z",
+    "last_updated": "2026-08-25T21:37:28.680Z",
     "original_repository": "mthenw/awesome-layers",
     "original_repository_id": 159810374,
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
