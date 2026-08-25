@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "C++ (official)",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -23,7 +23,7 @@
             {
               "node_type": "item",
               "title": "Rust (official)",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "Crystal",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
             {
               "node_type": "item",
               "title": "Nim",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,7 +143,7 @@
             {
               "node_type": "item",
               "title": "PHP 7.1 & 7.3",
-              "description": "ARN: Link: N/A",
+              "description": "ARN: Link:  N/A",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-18T08:42:36Z",
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3391
+                "stars": 3392
               }
             },
             {
@@ -188,7 +188,7 @@
             {
               "node_type": "item",
               "title": "Java 11",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "Swift",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -218,7 +218,7 @@
             {
               "node_type": "item",
               "title": "C",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
             {
               "node_type": "item",
               "title": "ModSecurity",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "OpenAI",
-              "description": "Link: OpenAI Python packages and the required dependencies Self publish",
+              "description": "Link: OpenAI Python packages and the required dependencies  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -630,7 +630,7 @@
             {
               "node_type": "item",
               "title": "OR-Tools",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
             {
               "node_type": "item",
               "title": "pyodbc",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "PySNMP",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -780,13 +780,13 @@
             {
               "node_type": "item",
               "title": "Python Toolkit",
-              "description": "Link: Python packages incl. requests, aiohttp, pyOpenSSL etc. ...",
+              "description": "Link: Python packages incl. requests, aiohttp, pyOpenSSL etc.  ...",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 164266648,
                 "language": "Python",
-                "last_commit": "2026-08-21T22:40:46Z",
+                "last_commit": "2026-08-24T22:46:17Z",
                 "owner": "keithrozario",
                 "repo": "Klayers",
                 "stars": 2506
@@ -840,7 +840,7 @@
             {
               "node_type": "item",
               "title": "Selenium & Chromium for Python",
-              "description": "Link: Includes lambda optimized Chromium ver. 86.0.4240.0 and Selenium ver. 3.14 Self publish",
+              "description": "Link: Includes lambda optimized Chromium ver. 86.0.4240.0 and Selenium ver. 3.14  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -870,7 +870,7 @@
             {
               "node_type": "item",
               "title": "SQLite Python",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 160103319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:10:08Z",
+                "last_commit": "2026-08-25T01:13:26Z",
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
                 "stars": 124
@@ -900,7 +900,7 @@
             {
               "node_type": "item",
               "title": "Tex Live (LaTeX)",
-              "description": "Link: Self publish",
+              "description": "Link:  Self publish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:38:09.818Z",
+    "last_updated": "2026-08-25T05:56:28.263Z",
     "original_repository": "mthenw/awesome-layers",
     "original_repository_id": 159810374,
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
