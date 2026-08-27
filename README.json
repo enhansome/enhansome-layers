@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 156752158,
                 "language": "Rust",
-                "last_commit": "2026-08-26T16:23:36Z",
+                "last_commit": "2026-08-27T11:37:31Z",
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
                 "stars": 3609
@@ -279,7 +279,7 @@
                 "last_commit": "2026-08-26T14:16:39Z",
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4118
+                "stars": 4119
               }
             },
             {
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 160103319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T01:13:08Z",
+                "last_commit": "2026-08-27T07:03:40Z",
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
                 "stars": 124
@@ -1034,9 +1034,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:39:28.893Z",
-    "original_repository": "mthenw/awesome-layers",
-    "original_repository_id": 159810374,
+    "last_updated": "2026-08-27T11:46:43.817Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 159810374,
+      "language": null,
+      "last_commit": "2024-04-25T16:01:22Z",
+      "owner": "mthenw",
+      "repo": "awesome-layers",
+      "stars": 2264
+    },
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
     "enhanced_repository": "enhansome/enhansome-layers",
     "enhanced_repository_description": null,
