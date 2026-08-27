@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 156752158,
                 "language": "Rust",
-                "last_commit": "2026-08-14T12:28:46Z",
+                "last_commit": "2026-08-26T16:23:36Z",
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
                 "stars": 3609
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 172615836,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:33:30Z",
+                "last_commit": "2026-08-26T14:16:39Z",
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4118
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-10T03:10:10Z",
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7453
+                "stars": 7455
               }
             },
             {
@@ -786,7 +786,7 @@
                 "archived": false,
                 "id": 164266648,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:46:17Z",
+                "last_commit": "2026-08-26T22:39:59Z",
                 "owner": "keithrozario",
                 "repo": "Klayers",
                 "stars": 2506
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 160103319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:13:26Z",
+                "last_commit": "2026-08-26T01:13:08Z",
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
                 "stars": 124
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:37:28.680Z",
+    "last_updated": "2026-08-27T00:39:28.893Z",
     "original_repository": "mthenw/awesome-layers",
     "original_repository_id": 159810374,
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
