@@ -18,7 +18,8 @@
                 "owner": "awslabs",
                 "repo": "aws-lambda-cpp",
                 "stars": 465
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 156752158,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:37:31Z",
+                "last_commit": "2026-08-27T16:04:54Z",
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3609
-              }
+                "stars": 3610
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gkrizek",
                 "repo": "bash-lambda-layer",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-aws.lambda",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "lambci",
                 "repo": "crambda",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "lambci",
                 "repo": "awslambda.nim",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "lambci",
                 "repo": "node-custom-lambda",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "lambci",
                 "repo": "node-custom-lambda",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "shogo82148",
                 "repo": "p5-aws-lambda",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -164,11 +174,12 @@
                 "archived": false,
                 "id": 112659734,
                 "language": "PHP",
-                "last_commit": "2026-08-18T08:42:36Z",
+                "last_commit": "2026-08-27T21:10:11Z",
                 "owner": "brefphp",
                 "repo": "bref",
                 "stars": 3393
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "iopipe",
                 "repo": "lambda-runtime-pypy3.5",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "andthearchitect",
                 "repo": "aws-lambda-java-runtime",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
                 "stars": 1235
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "PauloMigAlmeida",
                 "repo": "aws-lambda-c-runtime",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             }
           ],
           "description": null,
@@ -250,7 +265,8 @@
                 "owner": "shelfio",
                 "repo": "apache-tika-lambda-layer",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "aws-samples",
                 "repo": "aws-lambda-layer-awscli",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -276,11 +293,12 @@
                 "archived": false,
                 "id": 172615836,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:16:39Z",
+                "last_commit": "2026-08-28T00:09:29Z",
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -294,8 +312,9 @@
                 "last_commit": "2026-08-10T03:10:10Z",
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7455
-              }
+                "stars": 7460
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "seanfisher",
                 "repo": "better-sqlite3-lambda-layer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "gipsh",
                 "repo": "aws-calibre-layer",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "shelfio",
                 "repo": "chrome-aws-lambda-layer",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "kindlyops",
                 "repo": "lambda-clamav-layer",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "serverlesspub",
                 "repo": "ffmpeg-aws-lambda-layer",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "PDAL",
                 "repo": "lambda",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "dschep",
                 "repo": "geoip-lambda-layer",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "shelfio",
                 "repo": "ghostscript-lambda-layer",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "lambci",
                 "repo": "git-lambda-layer",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "rpidanny",
                 "repo": "gm-lambda-layer",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "pahud",
                 "repo": "lambda-layer-headless-chromium",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "shivtej1505",
                 "repo": "phantom-js-lambda-layer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "jason-dour",
                 "repo": "hugo-aws-lambda-layer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "aws-samples",
                 "repo": "aws-lambda-layer-kubectl",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "shelfio",
                 "repo": "libreoffice-lambda-layer",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "customink",
                 "repo": "ruby-vips-lambda",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "Zeerg",
                 "repo": "modsecurity-layer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "aiir",
                 "repo": "php71-mysql-aws-lambda-layer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "jason-dour",
                 "repo": "net-snmp-aws-lambda-layer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -610,7 +649,8 @@
                 "owner": "erenyasarkurt",
                 "repo": "OpenAI-AWS-Lambda-Layer",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -625,7 +665,8 @@
                 "owner": "alexandredavi",
                 "repo": "openssl-lambda-layer",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -640,7 +681,8 @@
                 "owner": "matheusmessora",
                 "repo": "or-tools-layer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -655,7 +697,8 @@
                 "owner": "vbalasu",
                 "repo": "pandas-gbq-layer",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -670,7 +713,8 @@
                 "owner": "serverlesspub",
                 "repo": "pandoc-aws-lambda-binary",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -685,7 +729,8 @@
                 "owner": "jetbridge",
                 "repo": "paramiko-lambda-layer",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "jeylabs",
                 "repo": "aws-lambda-poppler-layer",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -715,7 +761,8 @@
                 "owner": "DrLuke",
                 "repo": "postgres-libpq-aws-lambda-layer",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "RafalWilinski",
                 "repo": "serverless-puppeteer-layers",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -745,7 +793,8 @@
                 "owner": "jetbridge",
                 "repo": "psycopg2-lambda-layer",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -760,7 +809,8 @@
                 "owner": "kuharan",
                 "repo": "Lambda-Layers",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -775,7 +825,8 @@
                 "owner": "jason-dour",
                 "repo": "pysnmp-aws-lambda-layer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -786,11 +837,12 @@
                 "archived": false,
                 "id": 164266648,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:39:59Z",
+                "last_commit": "2026-08-27T22:40:43Z",
                 "owner": "keithrozario",
                 "repo": "Klayers",
                 "stars": 2506
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -805,7 +857,8 @@
                 "owner": "badouralix",
                 "repo": "rclone-lambda-layer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -820,7 +873,8 @@
                 "owner": "serverlesspub",
                 "repo": "rsvg-convert-aws-lambda-binary",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -835,7 +889,8 @@
                 "owner": "model-zoo",
                 "repo": "scikit-learn-lambda",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -850,7 +905,8 @@
                 "owner": "vittorio-nardone",
                 "repo": "selenium-chromium-lambda",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -865,7 +921,8 @@
                 "owner": "serverlesspub",
                 "repo": "sox-aws-lambda-binary",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -880,7 +937,8 @@
                 "owner": "dschep",
                 "repo": "sqlite-lambda-layer",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -895,7 +953,8 @@
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -910,7 +969,8 @@
                 "owner": "serverlesspub",
                 "repo": "latex-aws-lambda-layer",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -925,7 +985,8 @@
                 "owner": "vpayette",
                 "repo": "unzip-aws-lambda-layer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -940,7 +1001,8 @@
                 "owner": "morugu",
                 "repo": "zip-aws-lambda-layer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             }
           ],
           "description": null,
@@ -962,7 +1024,8 @@
                 "owner": "iopipe",
                 "repo": "iopipe-js",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1040,8 @@
                 "owner": "iopipe",
                 "repo": "iopipe-python",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1056,8 @@
                 "owner": "iopipe",
                 "repo": "iopipe-java",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1072,8 @@
                 "owner": "lumigo-io",
                 "repo": "lumigo-node",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1088,8 @@
                 "owner": "lumigo-io",
                 "repo": "python_tracer",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T05:18:19.744Z"
             }
           ],
           "description": null,
@@ -1034,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:43.817Z",
+    "last_updated": "2026-08-28T05:18:19.744Z",
     "original_repository_info": {
       "archived": false,
       "id": 159810374,
