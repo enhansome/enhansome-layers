@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ implementation of the AWS Lambda runtime",
+                "homepage": null,
                 "id": 156278608,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T16:26:49Z",
+                "open_issues": 28,
                 "owner": "awslabs",
                 "repo": "aws-lambda-cpp",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "cpp",
+                  "cpp11",
+                  "cpp14",
+                  "cpp17",
+                  "lambda"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust runtime for AWS Lambda",
+                "homepage": null,
                 "id": 156752158,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:04:54Z",
+                "open_issues": 30,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3611
+                "stars": 3611,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -44,12 +62,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Bash scripts in AWS Lambda via Layers",
+                "homepage": null,
                 "id": 160428544,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-19T03:24:26Z",
+                "open_issues": 18,
                 "owner": "gkrizek",
                 "repo": "bash-lambda-layer",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "aws",
+                  "bash",
+                  "lambda",
+                  "lambda-layer",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -60,12 +89,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 164394133,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:54:26Z",
+                "open_issues": 2,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-aws.lambda",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "ballerina"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crystal AWS Lambda custom runtime",
+                "homepage": null,
                 "id": 160421329,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2023-03-13T17:01:19Z",
+                "open_issues": 2,
                 "owner": "lambci",
                 "repo": "crambda",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -92,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to compile nim functions for AWS Lambda",
+                "homepage": null,
                 "id": 159736449,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2019-09-23T21:44:53Z",
+                "open_issues": 0,
                 "owner": "lambci",
                 "repo": "awslambda.nim",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -108,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom runtime for AWS Lambda to execute functions in Node.js v10.x or v12.x",
+                "homepage": null,
                 "id": 159713458,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-04-07T22:08:27Z",
+                "open_issues": 7,
                 "owner": "lambci",
                 "repo": "node-custom-lambda",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -124,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom runtime for AWS Lambda to execute functions in Node.js v10.x or v12.x",
+                "homepage": null,
                 "id": 159713458,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-04-07T22:08:27Z",
+                "open_issues": 7,
                 "owner": "lambci",
                 "repo": "node-custom-lambda",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -140,12 +196,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for Perl5",
+                "homepage": "https://metacpan.org/pod/AWS::Lambda",
                 "id": 161093578,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2026-08-14T14:07:16Z",
+                "open_issues": 1,
                 "owner": "shogo82148",
                 "repo": "p5-aws-lambda",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "aws-lambda",
+                  "perl"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -156,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP Runtime Layer for AWS Lambda",
+                "homepage": null,
                 "id": 156885130,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-10T06:37:20Z",
+                "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 322
+                "stars": 322,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -172,12 +241,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless PHP on AWS Lambda",
+                "homepage": "https://bref.sh",
                 "id": 112659734,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:10:11Z",
+                "open_issues": 64,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3394
+                "stars": 3394,
+                "topics": [
+                  "aws-lambda",
+                  "bref",
+                  "faas",
+                  "lambda",
+                  "lambda-layer",
+                  "php",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -188,12 +270,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Runtime for PyPy 3.5",
+                "homepage": null,
                 "id": 160114409,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-11T03:11:11Z",
+                "open_issues": 3,
                 "owner": "iopipe",
                 "repo": "lambda-runtime-pypy3.5",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "aws",
+                  "lambda",
+                  "layer",
+                  "pypy",
+                  "python",
+                  "runtime"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -204,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Custom Runtime for Java 11",
+                "homepage": null,
                 "id": 166852653,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-02-14T18:20:07Z",
+                "open_issues": 0,
                 "owner": "andthearchitect",
                 "repo": "aws-lambda-java-runtime",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -220,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift implementation of AWS Lambda Runtime",
+                "homepage": "https://swiftpackageindex.com/awslabs/swift-aws-lambda-runtime",
                 "id": 244728768,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T06:14:47Z",
+                "open_issues": 8,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1235
+                "stars": 1235,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -236,12 +340,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda C Runtime",
+                "homepage": null,
                 "id": 206480485,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-20T07:01:12Z",
+                "open_issues": 4,
                 "owner": "PauloMigAlmeida",
                 "repo": "aws-lambda-c-runtime",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "amazon",
+                  "aws",
+                  "aws-lambda",
+                  "c",
+                  "custom-runtime"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             }
@@ -259,12 +374,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda layer containing latest version of Apache Tika",
+                "homepage": null,
                 "id": 228373210,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-22T19:58:31Z",
+                "open_issues": 0,
                 "owner": "shelfio",
                 "repo": "apache-tika-lambda-layer",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "apache-tika",
+                  "aws-lambda",
+                  "lambda-layer",
+                  "text-extraction"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -275,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AWS Lambda Layer for AWS CLI",
+                "homepage": null,
                 "id": 181720740,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-04T00:14:56Z",
+                "open_issues": 1,
                 "owner": "aws-samples",
                 "repo": "aws-lambda-layer-awscli",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -291,12 +421,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+                "homepage": "https://aws-sdk-pandas.readthedocs.io",
                 "id": 172615836,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:09:29Z",
+                "open_issues": 57,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4119
+                "stars": 4119,
+                "topics": [
+                  "amazon-athena",
+                  "amazon-sagemaker-notebook",
+                  "apache-arrow",
+                  "apache-parquet",
+                  "athena",
+                  "aws",
+                  "aws-glue",
+                  "aws-lambda",
+                  "data-engineering",
+                  "data-science",
+                  "emr",
+                  "etl",
+                  "glue-catalog",
+                  "lambda",
+                  "modin",
+                  "mysql",
+                  "pandas",
+                  "python",
+                  "ray",
+                  "redshift"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -307,12 +463,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest and simplest library for SQLite3 in Node.js.",
+                "homepage": null,
                 "id": 67626108,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T03:10:10Z",
+                "open_issues": 71,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7460
+                "stars": 7460,
+                "topics": [
+                  "database",
+                  "sql",
+                  "sqlite",
+                  "sqlite3"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -323,12 +489,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A layer for AWS Lambda (nodejs) that allows you to use better-sqlite3 without having to compile the native module yourself. Also can be a template for any natively-compiled nodejs modules for AWS Lambda Layers.",
+                "homepage": null,
                 "id": 159776433,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-11-15T08:45:26Z",
+                "open_issues": 3,
                 "owner": "seanfisher",
                 "repo": "better-sqlite3-lambda-layer",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "better-sqlite3",
+                  "nodejs",
+                  "sqlite3"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -339,12 +516,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aws lambda calibre layer mostrly for using ebook-convert on the cloud",
+                "homepage": null,
                 "id": 261521163,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-14T14:16:51Z",
+                "open_issues": 2,
                 "owner": "gipsh",
                 "repo": "aws-calibre-layer",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "calibre"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -355,12 +542,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "58 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli",
+                "homepage": null,
                 "id": 201543815,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T18:06:10Z",
+                "open_issues": 11,
                 "owner": "shelfio",
                 "repo": "chrome-aws-lambda-layer",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "chromium",
+                  "lambda-layer"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -371,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an AWS Lambda Layer with clamav binaries",
+                "homepage": null,
                 "id": 179685871,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-02T23:03:10Z",
+                "open_issues": 5,
                 "owner": "kindlyops",
                 "repo": "lambda-clamav-layer",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -387,12 +589,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FFmpeg/FFprobe AWS Lambda layer",
+                "homepage": null,
                 "id": 163099794,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-05T12:57:10Z",
+                "open_issues": 14,
                 "owner": "serverlesspub",
                 "repo": "ffmpeg-aws-lambda-layer",
-                "stars": 438
+                "stars": 438,
+                "topics": [
+                  "aws-lambda",
+                  "claudiajs",
+                  "ffmpeg",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -403,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker containers for AWS Lambda",
+                "homepage": null,
                 "id": 165086992,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-22T16:53:52Z",
+                "open_issues": 0,
                 "owner": "PDAL",
                 "repo": "lambda",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -419,12 +636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example Lambda Layer containing MaxMind's free GeoIP DBs",
+                "homepage": null,
                 "id": 157878156,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-08-14T08:03:10Z",
+                "open_issues": 2,
                 "owner": "dschep",
                 "repo": "geoip-lambda-layer",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -435,12 +657,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ghostscript AWS Lambda layer",
+                "homepage": null,
                 "id": 205123725,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-22T19:58:44Z",
+                "open_issues": 6,
                 "owner": "shelfio",
                 "repo": "ghostscript-lambda-layer",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "ghostscript",
+                  "lambda-layer"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -451,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A layer for AWS Lambda that allows your functions to use `git` and `ssh` binaries",
+                "homepage": null,
                 "id": 159716817,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-06-08T17:10:02Z",
+                "open_issues": 12,
                 "owner": "lambci",
                 "repo": "git-lambda-layer",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -467,12 +704,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda layer with GraphicsMagick binaries.",
+                "homepage": "http://www.graphicsmagick.org",
                 "id": 188796511,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2024-01-11T15:34:03Z",
+                "open_issues": 8,
                 "owner": "rpidanny",
                 "repo": "gm-lambda-layer",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-graphicsmagick",
+                  "gm-lambda-layer",
+                  "graphicsmagick",
+                  "lambda-layer"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -483,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for headless chromium with extra CJK font support",
+                "homepage": null,
                 "id": 164403613,
                 "language": "Makefile",
+                "license": "MIT-0",
                 "last_commit": "2019-06-02T05:30:56Z",
+                "open_issues": 3,
                 "owner": "pahud",
                 "repo": "lambda-layer-headless-chromium",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -499,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless browser based on phantomJS which runs on AWS Lambda",
+                "homepage": null,
                 "id": 231969842,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2021-01-23T10:09:26Z",
+                "open_issues": 1,
                 "owner": "shivtej1505",
                 "repo": "phantom-js-lambda-layer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -515,12 +774,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for Hugo from gohugo.io.",
+                "homepage": null,
                 "id": 234994235,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-14T23:53:02Z",
+                "open_issues": 0,
                 "owner": "jason-dour",
                 "repo": "hugo-aws-lambda-layer",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "aws-lambda-layers",
+                  "cloud",
+                  "hugo",
+                  "lambda",
+                  "lambda-layer",
+                  "lambda-layers",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -531,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AWS Lambda Layer with kubectl and Helm",
+                "homepage": null,
                 "id": 181720569,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-06T18:44:15Z",
+                "open_issues": 0,
                 "owner": "aws-samples",
                 "repo": "aws-lambda-layer-kubectl",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -547,12 +827,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 191536483,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-22T21:05:38Z",
+                "open_issues": 22,
                 "owner": "shelfio",
                 "repo": "libreoffice-lambda-layer",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "lambda-layer",
+                  "libreoffice"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -563,12 +853,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AWS Lambda Layer for Ruby Libvips Gem",
+                "homepage": null,
                 "id": 181573413,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2022-07-03T19:44:39Z",
+                "open_issues": 2,
                 "owner": "customink",
                 "repo": "ruby-vips-lambda",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "image-processing",
+                  "lambda-layer",
+                  "libvips",
+                  "rails",
+                  "ruby",
+                  "ruby-on-rails",
+                  "vips"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -579,12 +884,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ModSecurity Lambda Layer for AWS",
+                "homepage": null,
                 "id": 247390949,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-10-11T15:18:25Z",
+                "open_issues": 0,
                 "owner": "Zeerg",
                 "repo": "modsecurity-layer",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "aws",
+                  "lambda",
+                  "modsecurity",
+                  "security",
+                  "serverless-framework"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -595,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AWS Lambda layer that adds the MySQL modules for PHP 7.1",
+                "homepage": null,
                 "id": 162598655,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-12-20T15:36:37Z",
+                "open_issues": 0,
                 "owner": "aiir",
                 "repo": "php71-mysql-aws-lambda-layer",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -611,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP Runtime Layer for AWS Lambda",
+                "homepage": null,
                 "id": 156885130,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-10T06:37:20Z",
+                "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 322
+                "stars": 322,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -627,12 +953,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for Net SNMP Tools",
+                "homepage": null,
                 "id": 234185331,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-09-15T00:34:46Z",
+                "open_issues": 0,
                 "owner": "jason-dour",
                 "repo": "net-snmp-aws-lambda-layer",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "cloud",
+                  "lambda",
+                  "lambda-layer",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -643,12 +982,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI AWS Lambda Layer. Includes a pre-built package zip as well as a way to build your own.",
+                "homepage": null,
                 "id": 573888075,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-19T19:52:07Z",
+                "open_issues": 3,
                 "owner": "erenyasarkurt",
                 "repo": "OpenAI-AWS-Lambda-Layer",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "gpt-3",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "openai",
+                  "openai-api",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -659,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A layer for AWS Lambda that allows your functions to use OpenSSL binaries",
+                "homepage": null,
                 "id": 232817148,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-07-31T16:50:33Z",
+                "open_issues": 3,
                 "owner": "alexandredavi",
                 "repo": "openssl-lambda-layer",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -675,12 +1034,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OR Tools Lambda layer",
+                "homepage": null,
                 "id": 194302472,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-08T01:21:41Z",
+                "open_issues": 0,
                 "owner": "matheusmessora",
                 "repo": "or-tools-layer",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aws-lambda",
+                  "or-tools",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -691,12 +1059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 277029142,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-04T03:13:36Z",
+                "open_issues": 0,
                 "owner": "vbalasu",
                 "repo": "pandas-gbq-layer",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -707,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pandoc precompiled binary for AWS Lambda with a Node.js wrapper",
+                "homepage": null,
                 "id": 68240496,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-19T16:01:49Z",
+                "open_issues": 0,
                 "owner": "serverlesspub",
                 "repo": "pandoc-aws-lambda-binary",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -723,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda layer for Paramiko SSH python library",
+                "homepage": null,
                 "id": 207526249,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-10-25T18:42:27Z",
+                "open_issues": 14,
                 "owner": "jetbridge",
                 "repo": "paramiko-lambda-layer",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -739,12 +1122,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Poppler Layer",
+                "homepage": null,
                 "id": 215409390,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2023-09-27T11:22:42Z",
+                "open_issues": 3,
                 "owner": "jeylabs",
                 "repo": "aws-lambda-poppler-layer",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-poppler",
+                  "poppler"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -755,12 +1148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Layer for AWS Lambda that provides PostgreSQL's libpq.so for your runtime",
+                "homepage": null,
                 "id": 179499502,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-04-04T16:55:38Z",
+                "open_issues": 0,
                 "owner": "DrLuke",
                 "repo": "postgres-libpq-aws-lambda-layer",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -771,12 +1169,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless Framework + AWS Lambda Layers + Puppeteer = ❤️",
+                "homepage": "https://dynobase.com",
                 "id": 159799172,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-06-05T03:51:46Z",
+                "open_issues": 6,
                 "owner": "RafalWilinski",
                 "repo": "serverless-puppeteer-layers",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "aws-lambda",
+                  "chrome",
+                  "headless",
+                  "layers",
+                  "puppeteer",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -787,12 +1197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "psycopg2 Lambda Layer",
+                "homepage": null,
                 "id": 161649221,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2024-01-22T18:24:35Z",
+                "open_issues": 8,
                 "owner": "jetbridge",
                 "repo": "psycopg2-lambda-layer",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -803,12 +1218,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of AWS lambda layers for python.",
+                "homepage": null,
                 "id": 261271023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-18T00:12:03Z",
+                "open_issues": 0,
                 "owner": "kuharan",
                 "repo": "Lambda-Layers",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "aws-lambda",
+                  "layers",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -819,12 +1243,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for Python PySNMP module.",
+                "homepage": null,
                 "id": 234184967,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-09-15T01:31:16Z",
+                "open_issues": 0,
                 "owner": "jason-dour",
                 "repo": "pysnmp-aws-lambda-layer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-layer",
+                  "aws-lambda-layers",
+                  "cloud",
+                  "lambda",
+                  "lambda-layer",
+                  "lambda-layers",
+                  "python",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -835,12 +1275,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Packages as AWS Lambda Layers",
+                "homepage": null,
                 "id": 164266648,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:41:34Z",
+                "open_issues": 4,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2506
+                "stars": 2506,
+                "topics": [
+                  "aws-lambda",
+                  "lambda",
+                  "lambda-layer",
+                  "python",
+                  "spacy"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -851,12 +1302,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda Layer for Rclone",
+                "homepage": null,
                 "id": 356655018,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-08-12T01:04:25Z",
+                "open_issues": 5,
                 "owner": "badouralix",
                 "repo": "rclone-lambda-layer",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "cloud",
+                  "rclone",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -867,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert SVG images easily to PDF and PNG using AWS Lambda",
+                "homepage": null,
                 "id": 72092867,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-26T20:44:37Z",
+                "open_issues": 2,
                 "owner": "serverlesspub",
                 "repo": "rsvg-convert-aws-lambda-binary",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -883,12 +1350,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Toolkit for deploying scikit-learn models for realtime inference on AWS Lambda",
+                "homepage": null,
                 "id": 281499090,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-28T13:35:03Z",
+                "open_issues": 8,
                 "owner": "model-zoo",
                 "repo": "scikit-learn-lambda",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -899,12 +1371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "λ How to run automated (Selenium) headless Chromium in AWS Lambda",
+                "homepage": null,
                 "id": 259451856,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-23T23:27:11Z",
+                "open_issues": 7,
                 "owner": "vittorio-nardone",
                 "repo": "selenium-chromium-lambda",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -915,12 +1392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precompiled SOX binary for AWS Lambda ",
+                "homepage": null,
                 "id": 162879753,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2019-01-08T12:59:05Z",
+                "open_issues": 2,
                 "owner": "serverlesspub",
                 "repo": "sox-aws-lambda-binary",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -931,12 +1413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A project providing a Lambda Layer that provides SQLite support in Python3.6 Lambdas",
+                "homepage": null,
                 "id": 157911615,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2018-11-30T23:23:50Z",
+                "open_issues": 0,
                 "owner": "dschep",
                 "repo": "sqlite-lambda-layer",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -947,12 +1434,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A layer for AWS Lambda containing the tesseract C libraries and tesseract executable.",
+                "homepage": null,
                 "id": 160103319,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:36:50Z",
+                "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "amazon-linux",
+                  "aws-lambda",
+                  "lambda",
+                  "lambda-layer",
+                  "serverless",
+                  "serverless-framework",
+                  "tesseract"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -963,12 +1463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "latex/pdflatex binaries for AWS Lambda",
+                "homepage": null,
                 "id": 188203792,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-01T11:58:46Z",
+                "open_issues": 5,
                 "owner": "serverlesspub",
                 "repo": "latex-aws-lambda-layer",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -979,12 +1484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 268931093,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-06-02T23:38:50Z",
+                "open_issues": 0,
                 "owner": "vpayette",
                 "repo": "unzip-aws-lambda-layer",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -995,12 +1505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zip for AWS Lambda as layer",
+                "homepage": null,
                 "id": 227715728,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2020-05-15T22:06:41Z",
+                "open_issues": 0,
                 "owner": "morugu",
                 "repo": "zip-aws-lambda-layer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             }
@@ -1018,12 +1533,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build and run serverless apps with confidence on AWS Lambda with Tracing, Profiling, Metrics, Monitoring, and more.",
+                "homepage": "https://www.iopipe.com",
                 "id": 109193953,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-09T01:31:35Z",
+                "open_issues": 22,
                 "owner": "iopipe",
                 "repo": "iopipe-js",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "aws-lambda-node",
+                  "debugging",
+                  "iopipe",
+                  "iopipe-agent",
+                  "profiling",
+                  "serverless",
+                  "serverless-functions",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -1034,12 +1565,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python agent for AWS Lambda metrics, tracing, profiling & analytics",
+                "homepage": "https://www.iopipe.com",
                 "id": 64508423,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-08T09:26:43Z",
+                "open_issues": 9,
                 "owner": "iopipe",
                 "repo": "iopipe-python",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "analytics",
+                  "aws",
+                  "aws-lambda",
+                  "iopipe",
+                  "iopipe-agent",
+                  "lambda",
+                  "monitoring",
+                  "profiling",
+                  "python",
+                  "serverless",
+                  "telemetry",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -1050,12 +1599,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Lambda telemetry for Java",
+                "homepage": "https://www.iopipe.com/",
                 "id": 113876289,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-13T16:36:48Z",
+                "open_issues": 9,
                 "owner": "iopipe",
                 "repo": "iopipe-java",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "devops",
+                  "iopipe",
+                  "iopipe-agent",
+                  "java",
+                  "lambda",
+                  "monitoring",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -1066,12 +1630,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lumigo Node tracer for AWS Lambda",
+                "homepage": "https://lumigo.io",
                 "id": 185531534,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T13:34:24Z",
+                "open_issues": 9,
                 "owner": "lumigo-io",
                 "repo": "lumigo-node",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "debugging",
+                  "distributed-tracing",
+                  "instrumentation",
+                  "lumigo",
+                  "monitoring",
+                  "node",
+                  "serverless",
+                  "tracer"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -1082,12 +1660,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lumigo's Python Distributed Tracing and Performance Agent for AWS lambda",
+                "homepage": "https://lumigo.io",
                 "id": 169977038,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T15:22:06Z",
+                "open_issues": 8,
                 "owner": "lumigo-io",
                 "repo": "python_tracer",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "debugging",
+                  "instrumentation",
+                  "lumigo",
+                  "python3",
+                  "python36",
+                  "python37",
+                  "python38",
+                  "serverless",
+                  "tracer"
+                ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             }
@@ -1101,15 +1694,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:11.331Z",
+    "last_updated": "2026-08-29T04:23:18.813Z",
     "original_repository_info": {
       "archived": false,
+      "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
+      "homepage": "https://cloudash.dev",
       "id": 159810374,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2024-04-25T16:01:22Z",
+      "open_issues": 10,
       "owner": "mthenw",
       "repo": "awesome-layers",
-      "stars": 2264
+      "stars": 2264,
+      "topics": [
+        "awesome",
+        "aws",
+        "aws-lambda",
+        "cloud",
+        "serverless",
+        "serverless-application-model",
+        "serverless-framework",
+        "serverless-functions"
+      ]
     },
     "original_repository_sha": "7deb0685fc804f921430b4e4bbadc512f63dc427",
     "enhanced_repository": "enhansome/enhansome-layers",
