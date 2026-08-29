@@ -426,8 +426,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T00:09:29Z",
-                "open_issues": 57,
+                "last_commit": "2026-08-29T08:12:25Z",
+                "open_issues": 59,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119,
@@ -472,7 +472,7 @@
                 "open_issues": 71,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7460,
+                "stars": 7461,
                 "topics": [
                   "database",
                   "sql",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:18.813Z",
+    "last_updated": "2026-08-29T23:13:34.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
