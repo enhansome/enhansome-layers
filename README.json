@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-27T16:04:54Z",
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3610
+                "stars": 3611
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -177,7 +177,7 @@
                 "last_commit": "2026-08-27T21:10:11Z",
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3393
+                "stars": 3394
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -837,7 +837,7 @@
                 "archived": false,
                 "id": 164266648,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:40:43Z",
+                "last_commit": "2026-08-28T22:41:34Z",
                 "owner": "keithrozario",
                 "repo": "Klayers",
                 "stars": 2506
@@ -856,7 +856,7 @@
                 "last_commit": "2026-08-12T01:04:25Z",
                 "owner": "badouralix",
                 "repo": "rclone-lambda-layer",
-                "stars": 18
+                "stars": 17
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
             },
@@ -949,7 +949,7 @@
                 "archived": false,
                 "id": 160103319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:03:40Z",
+                "last_commit": "2026-08-28T08:36:50Z",
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
                 "stars": 124
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:18:19.744Z",
+    "last_updated": "2026-08-29T03:08:11.331Z",
     "original_repository_info": {
       "archived": false,
       "id": 159810374,
