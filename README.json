@@ -46,11 +46,11 @@
                 "id": 156752158,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T16:04:54Z",
+                "last_commit": "2026-08-30T18:57:54Z",
                 "open_issues": 30,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -250,7 +250,7 @@
                 "open_issues": 64,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3394,
+                "stars": 3395,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -373,7 +373,7 @@
               "description": "ARN: Link: all",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "AWS Lambda layer containing latest version of Apache Tika",
                 "homepage": null,
                 "id": 228373210,
@@ -472,7 +472,7 @@
                 "open_issues": 71,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7461,
+                "stars": 7462,
                 "topics": [
                   "database",
                   "sql",
@@ -1280,7 +1280,7 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T22:41:34Z",
+                "last_commit": "2026-08-30T05:56:10Z",
                 "open_issues": 4,
                 "owner": "keithrozario",
                 "repo": "Klayers",
@@ -1608,7 +1608,7 @@
                 "open_issues": 9,
                 "owner": "iopipe",
                 "repo": "iopipe-java",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:13:34.155Z",
+    "last_updated": "2026-08-30T23:25:01.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
