@@ -201,8 +201,8 @@
                 "id": 161093578,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-09-04T15:04:23Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-05T02:40:19Z",
+                "open_issues": 3,
                 "owner": "shogo82148",
                 "repo": "p5-aws-lambda",
                 "stars": 27,
@@ -426,7 +426,7 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T09:13:40Z",
+                "last_commit": "2026-09-05T22:00:27Z",
                 "open_issues": 54,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T02:54:38Z",
+                "last_commit": "2026-09-05T02:49:05Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:59:49.172Z",
+    "last_updated": "2026-09-05T22:49:34.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
