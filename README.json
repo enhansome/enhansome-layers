@@ -46,8 +46,8 @@
                 "id": 156752158,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T09:54:19Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-06T10:48:52Z",
+                "open_issues": 31,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
                 "stars": 3612,
@@ -250,7 +250,7 @@
                 "open_issues": 60,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3398,
+                "stars": 3399,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T02:49:05Z",
+                "last_commit": "2026-09-06T02:45:50Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:49:34.193Z",
+    "last_updated": "2026-09-06T22:51:34.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
