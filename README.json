@@ -50,7 +50,7 @@
                 "open_issues": 31,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3612,
+                "stars": 3613,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -247,7 +247,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-04T06:38:52Z",
-                "open_issues": 60,
+                "open_issues": 59,
                 "owner": "brefphp",
                 "repo": "bref",
                 "stars": 3399,
@@ -472,7 +472,7 @@
                 "open_issues": 70,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7473,
+                "stars": 7474,
                 "topics": [
                   "database",
                   "sql",
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T02:45:50Z",
+                "last_commit": "2026-09-07T02:43:44Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:51:34.311Z",
+    "last_updated": "2026-09-07T23:26:40.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
