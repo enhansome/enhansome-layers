@@ -47,7 +47,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-13T10:37:26Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
                 "stars": 3614,
@@ -426,8 +426,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:56:10Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-19T08:09:51Z",
+                "open_issues": 60,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4119,
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2507,
+                "stars": 2505,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T03:03:29Z",
+                "last_commit": "2026-09-19T03:01:24Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:13:22.956Z",
+    "last_updated": "2026-09-19T22:54:36.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
