@@ -46,7 +46,7 @@
                 "id": 156752158,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T10:37:26Z",
+                "last_commit": "2026-09-20T18:59:43Z",
                 "open_issues": 33,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
@@ -247,7 +247,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-14T16:11:47Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "brefphp",
                 "repo": "bref",
                 "stars": 3401,
@@ -328,7 +328,7 @@
                 "open_issues": 8,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1233,
+                "stars": 1234,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -472,7 +472,7 @@
                 "open_issues": 73,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7489,
+                "stars": 7488,
                 "topics": [
                   "database",
                   "sql",
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T03:01:24Z",
+                "last_commit": "2026-09-20T03:10:40Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:54:36.031Z",
+    "last_updated": "2026-09-20T23:10:21.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
