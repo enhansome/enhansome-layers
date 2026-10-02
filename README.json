@@ -47,7 +47,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T09:27:58Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
                 "stars": 3614,
@@ -472,7 +472,7 @@
                 "open_issues": 75,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7498,
+                "stars": 7499,
                 "topics": [
                   "database",
                   "sql",
@@ -1280,11 +1280,11 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T22:39:20Z",
+                "last_commit": "2026-10-01T22:37:36Z",
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2506,
+                "stars": 2507,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1422,7 +1422,7 @@
                 "open_issues": 0,
                 "owner": "dschep",
                 "repo": "sqlite-lambda-layer",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T03:52:57Z",
+                "last_commit": "2026-10-01T03:57:36Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:29:55.247Z",
+    "last_updated": "2026-10-02T00:41:10.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
