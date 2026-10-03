@@ -459,7 +459,7 @@
             {
               "node_type": "item",
               "title": "better-sqlite3",
-              "description": null,
+              "description": "WiseLibs/better-sqlite3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "ARN: Link:",
-              "description": null,
+              "description": "seanfisher/better-sqlite3-lambda-layer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "Link:",
-              "description": null,
+              "description": "aiir/php71-mysql-aws-lambda-layer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "php-lambda-layer",
-              "description": null,
+              "description": "stackery/php-lambda-layer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:57:11Z",
+                "last_commit": "2026-10-03T03:41:14Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:24:07.982Z",
+    "last_updated": "2026-10-03T04:55:58.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
