@@ -246,8 +246,8 @@
                 "id": 112659734,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-29T07:42:01Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-04T17:31:54Z",
+                "open_issues": 61,
                 "owner": "brefphp",
                 "repo": "bref",
                 "stars": 3403,
@@ -328,7 +328,7 @@
                 "open_issues": 9,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1234,
+                "stars": 1235,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -427,7 +427,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T16:31:34Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4120,
@@ -472,7 +472,7 @@
                 "open_issues": 75,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7501,
+                "stars": 7503,
                 "topics": [
                   "database",
                   "sql",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:41:14Z",
+                "last_commit": "2026-10-04T04:08:44Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:44:13.363Z",
+    "last_updated": "2026-10-04T23:55:27.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
