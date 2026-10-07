@@ -246,11 +246,11 @@
                 "id": 112659734,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-05T09:23:22Z",
+                "last_commit": "2026-10-06T21:41:32Z",
                 "open_issues": 61,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3403,
+                "stars": 3402,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -472,7 +472,7 @@
                 "open_issues": 75,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7505,
+                "stars": 7506,
                 "topics": [
                   "database",
                   "sql",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:09.453Z",
+    "last_updated": "2026-10-07T00:36:24.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
