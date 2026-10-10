@@ -246,7 +246,7 @@
                 "id": 112659734,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-07T06:08:23Z",
+                "last_commit": "2026-10-09T20:41:14Z",
                 "open_issues": 62,
                 "owner": "brefphp",
                 "repo": "bref",
@@ -328,7 +328,7 @@
                 "open_issues": 9,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1235,
+                "stars": 1236,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -427,10 +427,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T16:31:34Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4121,
+                "stars": 4122,
                 "topics": [
                   "amazon-athena",
                   "amazon-sagemaker-notebook",
@@ -472,7 +472,7 @@
                 "open_issues": 75,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7514,
+                "stars": 7512,
                 "topics": [
                   "database",
                   "sql",
@@ -836,7 +836,7 @@
                 "open_issues": 22,
                 "owner": "shelfio",
                 "repo": "libreoffice-lambda-layer",
-                "stars": 120,
+                "stars": 119,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -1280,7 +1280,7 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T22:43:48Z",
+                "last_commit": "2026-10-09T22:40:26Z",
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
@@ -1307,8 +1307,8 @@
                 "id": 356655018,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-09-10T23:53:22Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-09T12:28:46Z",
+                "open_issues": 6,
                 "owner": "badouralix",
                 "repo": "rclone-lambda-layer",
                 "stars": 17,
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T04:19:49Z",
+                "last_commit": "2026-10-09T04:23:56Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:09:45.177Z",
+    "last_updated": "2026-10-10T00:42:37.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
