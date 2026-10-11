@@ -50,7 +50,7 @@
                 "open_issues": 33,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3617,
+                "stars": 3616,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -426,11 +426,11 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T16:31:34Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-10T08:12:57Z",
+                "open_issues": 48,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4122,
+                "stars": 4121,
                 "topics": [
                   "amazon-athena",
                   "amazon-sagemaker-notebook",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T04:23:56Z",
+                "last_commit": "2026-10-10T04:11:11Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:42:37.230Z",
+    "last_updated": "2026-10-11T00:11:44.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
