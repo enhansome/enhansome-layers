@@ -426,8 +426,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T08:13:10Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-18T22:32:23Z",
+                "open_issues": 47,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4122,
@@ -472,7 +472,7 @@
                 "open_issues": 76,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7519,
+                "stars": 7522,
                 "topics": [
                   "database",
                   "sql",
@@ -551,7 +551,7 @@
                 "open_issues": 11,
                 "owner": "shelfio",
                 "repo": "chrome-aws-lambda-layer",
-                "stars": 747,
+                "stars": 746,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T02:53:29Z",
+                "last_commit": "2026-10-18T02:55:57Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:01:31.299Z",
+    "last_updated": "2026-10-18T23:00:35.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
