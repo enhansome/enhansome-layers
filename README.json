@@ -250,7 +250,7 @@
                 "open_issues": 65,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3405,
+                "stars": 3407,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -426,8 +426,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T09:02:50Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-22T18:28:14Z",
+                "open_issues": 45,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4123,
@@ -472,7 +472,7 @@
                 "open_issues": 76,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7523,
+                "stars": 7525,
                 "topics": [
                   "database",
                   "sql",
@@ -1280,7 +1280,7 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T22:39:35Z",
+                "last_commit": "2026-10-22T22:42:41Z",
                 "open_issues": 3,
                 "owner": "keithrozario",
                 "repo": "Klayers",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T03:14:17Z",
+                "last_commit": "2026-10-22T03:21:12Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:58:33.251Z",
+    "last_updated": "2026-10-22T23:57:04.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
