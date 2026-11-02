@@ -71,7 +71,7 @@
                 "open_issues": 18,
                 "owner": "gkrizek",
                 "repo": "bash-lambda-layer",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "aws",
                   "bash",
@@ -250,7 +250,7 @@
                 "open_issues": 68,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -409,7 +409,7 @@
                 "open_issues": 1,
                 "owner": "aws-samples",
                 "repo": "aws-lambda-layer-awscli",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -426,11 +426,11 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T09:11:28Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-01T11:52:53Z",
+                "open_issues": 52,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4124,
+                "stars": 4122,
                 "topics": [
                   "amazon-athena",
                   "amazon-sagemaker-notebook",
@@ -472,7 +472,7 @@
                 "open_issues": 76,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7539,
+                "stars": 7541,
                 "topics": [
                   "database",
                   "sql",
@@ -577,7 +577,7 @@
                 "open_issues": 5,
                 "owner": "kindlyops",
                 "repo": "lambda-clamav-layer",
-                "stars": 29,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -1280,11 +1280,11 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T23:12:52Z",
+                "last_commit": "2026-11-01T21:19:28Z",
                 "open_issues": 4,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T03:56:46Z",
+                "last_commit": "2026-11-01T04:10:24Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:01:55.230Z",
+    "last_updated": "2026-11-02T00:35:05.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
@@ -1706,7 +1706,7 @@
       "open_issues": 10,
       "owner": "mthenw",
       "repo": "awesome-layers",
-      "stars": 2265,
+      "stars": 2264,
       "topics": [
         "awesome",
         "aws",
