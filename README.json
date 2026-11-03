@@ -50,7 +50,7 @@
                 "open_issues": 36,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3618,
+                "stars": 3619,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -472,7 +472,7 @@
                 "open_issues": 76,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7541,
+                "stars": 7545,
                 "topics": [
                   "database",
                   "sql",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T04:10:24Z",
+                "last_commit": "2026-11-02T04:13:53Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:35:05.242Z",
+    "last_updated": "2026-11-03T02:52:07.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
@@ -1706,7 +1706,7 @@
       "open_issues": 10,
       "owner": "mthenw",
       "repo": "awesome-layers",
-      "stars": 2264,
+      "stars": 2265,
       "topics": [
         "awesome",
         "aws",
