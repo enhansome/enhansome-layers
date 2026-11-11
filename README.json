@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "awslabs",
                 "repo": "aws-lambda-cpp",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -47,10 +47,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:35:12Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "aws",
                 "repo": "aws-lambda-rust-runtime",
-                "stars": 3620,
+                "stars": 3622,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -71,7 +71,7 @@
                 "open_issues": 18,
                 "owner": "gkrizek",
                 "repo": "bash-lambda-layer",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "aws",
                   "bash",
@@ -94,8 +94,8 @@
                 "id": 164394133,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T06:45:26Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-10T06:26:52Z",
+                "open_issues": 1,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-aws.lambda",
                 "stars": 109,
@@ -201,8 +201,8 @@
                 "id": 161093578,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-11-09T21:36:28Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-10T11:47:00Z",
+                "open_issues": 1,
                 "owner": "shogo82148",
                 "repo": "p5-aws-lambda",
                 "stars": 27,
@@ -229,7 +229,7 @@
                 "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 322,
+                "stars": 323,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -246,11 +246,11 @@
                 "id": 112659734,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-09T22:55:21Z",
-                "open_issues": 70,
+                "last_commit": "2026-11-10T14:49:22Z",
+                "open_issues": 71,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3409,
+                "stars": 3412,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -430,7 +430,7 @@
                 "open_issues": 54,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4122,
+                "stars": 4123,
                 "topics": [
                   "amazon-athena",
                   "amazon-sagemaker-notebook",
@@ -472,7 +472,7 @@
                 "open_issues": 79,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7549,
+                "stars": 7550,
                 "topics": [
                   "database",
                   "sql",
@@ -941,7 +941,7 @@
                 "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 322,
+                "stars": 323,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -1280,7 +1280,7 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T22:40:41Z",
+                "last_commit": "2026-11-10T22:42:15Z",
                 "open_issues": 4,
                 "owner": "keithrozario",
                 "repo": "Klayers",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T04:25:19Z",
+                "last_commit": "2026-11-10T05:55:33Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:26:00.768Z",
+    "last_updated": "2026-11-11T01:11:55.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
