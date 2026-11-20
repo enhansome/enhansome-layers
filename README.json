@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "awslabs",
                 "repo": "aws-lambda-cpp",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -71,7 +71,7 @@
                 "open_issues": 18,
                 "owner": "gkrizek",
                 "repo": "bash-lambda-layer",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "aws",
                   "bash",
@@ -201,8 +201,8 @@
                 "id": 161093578,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:31:12Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T11:16:21Z",
+                "open_issues": 1,
                 "owner": "shogo82148",
                 "repo": "p5-aws-lambda",
                 "stars": 27,
@@ -229,7 +229,7 @@
                 "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 323,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -246,11 +246,11 @@
                 "id": 112659734,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-18T20:01:02Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-19T22:32:07Z",
+                "open_issues": 57,
                 "owner": "brefphp",
                 "repo": "bref",
-                "stars": 3410,
+                "stars": 3412,
                 "topics": [
                   "aws-lambda",
                   "bref",
@@ -427,10 +427,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T15:08:01Z",
-                "open_issues": 62,
+                "open_issues": 65,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
-                "stars": 4125,
+                "stars": 4124,
                 "topics": [
                   "amazon-athena",
                   "amazon-sagemaker-notebook",
@@ -472,7 +472,7 @@
                 "open_issues": 74,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
-                "stars": 7556,
+                "stars": 7557,
                 "topics": [
                   "database",
                   "sql",
@@ -941,7 +941,7 @@
                 "open_issues": 23,
                 "owner": "stackery",
                 "repo": "php-lambda-layer",
-                "stars": 323,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -1280,11 +1280,11 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T22:44:27Z",
+                "last_commit": "2026-11-19T22:45:06Z",
                 "open_issues": 5,
                 "owner": "keithrozario",
                 "repo": "Klayers",
-                "stars": 2501,
+                "stars": 2500,
                 "topics": [
                   "aws-lambda",
                   "lambda",
@@ -1439,7 +1439,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T05:36:23Z",
+                "last_commit": "2026-11-19T05:34:37Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:28:56.594Z",
+    "last_updated": "2026-11-20T02:13:51.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
@@ -1706,7 +1706,7 @@
       "open_issues": 10,
       "owner": "mthenw",
       "repo": "awesome-layers",
-      "stars": 2266,
+      "stars": 2265,
       "topics": [
         "awesome",
         "aws",
