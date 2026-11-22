@@ -426,8 +426,8 @@
                 "id": 172615836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T00:30:27Z",
-                "open_issues": 66,
+                "last_commit": "2026-11-21T09:09:24Z",
+                "open_issues": 69,
                 "owner": "aws",
                 "repo": "aws-sdk-pandas",
                 "stars": 4124,
@@ -469,7 +469,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-14T09:02:55Z",
-                "open_issues": 74,
+                "open_issues": 76,
                 "owner": "WiseLibs",
                 "repo": "better-sqlite3",
                 "stars": 7558,
@@ -842,37 +842,6 @@
                   "aws-lambda",
                   "lambda-layer",
                   "libreoffice"
-                ]
-              },
-              "first_seen": "2026-08-28T05:18:19.744Z"
-            },
-            {
-              "node_type": "item",
-              "title": "libvips",
-              "description": "Link: Built for Ruby FFI but should work for all. all Self publish",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "AWS Lambda Layer for Ruby Libvips Gem",
-                "homepage": null,
-                "id": 181573413,
-                "language": "Dockerfile",
-                "license": null,
-                "last_commit": "2022-07-03T19:44:39Z",
-                "open_issues": 2,
-                "owner": "customink",
-                "repo": "ruby-vips-lambda",
-                "stars": 39,
-                "topics": [
-                  "aws",
-                  "aws-lambda",
-                  "image-processing",
-                  "lambda-layer",
-                  "libvips",
-                  "rails",
-                  "ruby",
-                  "ruby-on-rails",
-                  "vips"
                 ]
               },
               "first_seen": "2026-08-28T05:18:19.744Z"
@@ -1280,7 +1249,7 @@
                 "id": 164266648,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T22:38:45Z",
+                "last_commit": "2026-11-22T01:07:32Z",
                 "open_issues": 5,
                 "owner": "keithrozario",
                 "repo": "Klayers",
@@ -1439,7 +1408,7 @@
                 "id": 160103319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T05:22:18Z",
+                "last_commit": "2026-11-21T05:15:31Z",
                 "open_issues": 9,
                 "owner": "bweigel",
                 "repo": "aws-lambda-tesseract-layer",
@@ -1694,7 +1663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:06:21.983Z",
+    "last_updated": "2026-11-22T01:09:02.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
@@ -1706,7 +1675,7 @@
       "open_issues": 10,
       "owner": "mthenw",
       "repo": "awesome-layers",
-      "stars": 2265,
+      "stars": 2266,
       "topics": [
         "awesome",
         "aws",
