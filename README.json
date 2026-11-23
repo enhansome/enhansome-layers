@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "awslabs",
                 "repo": "aws-lambda-cpp",
-                "stars": 465,
+                "stars": 464,
                 "topics": [
                   "aws",
                   "aws-lambda",
@@ -1663,7 +1663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:09:02.928Z",
+    "last_updated": "2026-11-23T01:33:45.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
